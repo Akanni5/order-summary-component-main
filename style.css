@@ -57,9 +57,9 @@ main img {
 }
 
 .title {
-	margin: 1.25em 0 1em 0;
+	margin: 1.5em 0 0.75em 0;
 	color: var(--dark-blue);
-	font-size: 1.25em;
+	font-size: 1.65em;
 	line-height: 1.2;
 }
 
@@ -75,7 +75,7 @@ main img {
 	align-items: center;
 	justify-content: space-between;
 	gap: .5rem;
-	margin: 0.8em 2em;
+	margin: 1em 2em;
 	background-color: var(--very-pale-blue);
 	border-radius: .75em;
 	padding: 1em;
@@ -87,6 +87,7 @@ main img {
 	align-items: center;
 	text-align: left;
 	gap: .2em;
+	margin: .125em;
 }
 
 .plan-type-name {

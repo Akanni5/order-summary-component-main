@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution repo on github](https://github.com/Akanni5/order-summary-component-main)
-- Live Site URL: [vercel app site](https://your-live-site-url.com)
+- Live Site URL: [vercel app site](https://order-summary-component-main-flame-sigma.vercel.app/)
 
 ### Built with
 
